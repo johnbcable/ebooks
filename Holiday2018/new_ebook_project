@@ -1,0 +1,42 @@
+cd $HOME/Sites
+EBOOKDIR=$1;export EBOOKDIR
+#  can test here if directory exists already
+SOURCE=/usr/local/bin/css-books-master;export SOURCE
+#  Do we need to change base to Dropbox sites
+KEY=$2
+case $KEY in 
+  -d|-D|-dropbox)
+  BASEDEST=/Users/a03pl/Dropbox/Sites/ebooks/
+  ;;
+  *)
+  BASEDEST=/Users/a03pl/Sites/ebooks/
+  ;;
+esac
+export BASEDEST
+DEST="${BASEDEST}${EBOOKDIR}";export DEST
+# Create destination directory if it doesnt exist - stop if it does
+echo BASEDEST = $BASEDEST
+echo EBOOKDIR = $EBOOKDIR
+echo Creating $DEST
+read
+mkdir $DEST
+cd $DEST
+mkdir builds
+cd builds
+cp $SOURCE/builds/* .
+cd ..
+cp $SOURCE/*.html .
+cp $SOURCE/*.css .
+cp $SOURCE/*.png .
+cp $SOURCE/*.xml .
+cp $SOURCE/*.md .
+cd $HOME/Sites
+chmod 777 -R  $DEST
+echo
+echo Done. Change directory to $DEST and review
+echo
+
+
+
+
+
