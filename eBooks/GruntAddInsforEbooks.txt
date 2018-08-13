@@ -1,0 +1,8 @@
+
+Grunt add-ins
+
+
+grunt-pandoc         npm install grunt-pandoc --save-dev
+mdbook				 npm install mdbook --save-dev
+grunt-prince		 npm install grunt-prince --save-dev
+

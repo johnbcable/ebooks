@@ -1,0 +1,9 @@
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title id="t1">CPE Technical - A Guide for New Starters</dc:title>
+  <meta refines="#t1" property="title-type">main</meta>
+  <dc:language>en-GB</dc:language>
+  <dc:creator opf:file-as="Cable, John" opf:role="aut">John Cable</dc:creator>
+  <dc:publisher>John Cable</dc:publisher>
+  <dc:date opf:event="publication">2014-07-22</dc:date>
+  <dc:rights>Copyright ©2015 by John Cable</dc:rights>
+</metadata>

@@ -1,0 +1,22 @@
+Poppa took the apple to Paul. The Pope placed it in the box labeled 4.
+
+<span class="i">This italics text.</span> This is not italics text. <span class="i">This is some more italics text.</span>
+
+Practical Regular Expressions for eBook Design
+
+Find:                      Replace:
+
+<space><space>+            <space>              double spaces to single space
+\t                         [blank]              delete all tabs
+\r\n\r\n                   \r\n                 delete blank lines (Windows)
+^<space>+                  [blank]              trim leading whitespace
++$                         [blank]              trim trailing whitespace
+^(.+)$                     <p>\1</p>            wrap <p> tags on every line
+<p>(\*+*)</p>              <p class="<someclass>">\1</p>    add a class to all <p> tags
+<img src="(.*?)" />        <img src="\1" alt="My alt text" />   Add alt text to images
+&(?![a-zA-Z0-9]+?;)        &amp;               replace all & with &amp; 
+([a-zA-Z0-9])'             \1'
+  
+
+
+

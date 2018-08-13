@@ -1,0 +1,9 @@
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title id="t1">MFL Transcripts - Years 3 and 4</dc:title>
+  <meta refines="#t1" property="title-type">main</meta>
+  <dc:language>en-GB</dc:language>
+  <dc:creator opf:file-as="Richter, Bertram and Bollands, Rebecca" opf:role="aut">Bertram Richter and Rebecca Bollands</dc:creator>
+  <dc:publisher>John Cable</dc:publisher>
+  <dc:date opf:event="publication">2016-01-15</dc:date>
+  <dc:rights>Copyright ©2016</dc:rights>
+</metadata>

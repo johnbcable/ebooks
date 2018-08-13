@@ -1,0 +1,1 @@
+pandoc -o builds/book.epub book.html --epub-metadata=metadata.xml --epub-cover-image=mflcover.png --toc --toc-depth=3

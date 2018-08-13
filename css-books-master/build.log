@@ -1,0 +1,57 @@
+Fri 19 Feb 2016 09:50:24 GMT
+ 
+Building eBook ...
+     1.  epub     
+ 
+ 
+     2.  mobi     
+ 
+
+*************************************************************
+ Amazon kindlegen(MAC OSX) V2.9 build 1028-0897292 
+ A command line e-book compiler 
+ Copyright Amazon.com and its Affiliates 2014 
+*************************************************************
+
+Info(prcgen):I1047: Added metadata dc:Title        "Productivity Essays"
+Info(prcgen):I1047: Added metadata dc:Date         "2014-07-15"
+Info(prcgen):I1047: Added metadata dc:Creator      "Rachel Andrew"
+Info(prcgen):I1047: Added metadata dc:Subject      "An ebook of essays first published on my blog on the subject of productivity and getting things done"
+Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /var/folders/jd/1nx44wns6dd__kdbrdtw9jsr0000gq/T/mobi-safxtl/cover.xhtml
+Info(prcgen):I1002: Parsing files  0000005
+Info(prcgen):I1015: Building PRC file
+Info(prcgen):I1006: Resolving hyperlinks
+Info(prcgen):I1008: Resolving start reading location
+Info(prcgen):I1049: Building table of content     URL: /var/folders/jd/1nx44wns6dd__kdbrdtw9jsr0000gq/T/mobi-safxtl/toc.ncx
+Info(pagemap):I8000: No Page map found in the book
+Info(prcgen):I1045: Computing UNICODE ranges used in the book
+Info(prcgen):I1046: Found UNICODE range: Basic Latin [20..7E]
+Info(prcgen):I1046: Found UNICODE range: General Punctuation - Windows 1252 [2018..201A]
+Info(prcgen):I1017: Building PRC file, record count:   0000006
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  53.17%
+Info(prcgen):I1040: The document identifier is: "Productivity_Essays"
+Info(prcgen):I1041: The file format version is V6
+Info(prcgen):I1031: Saving PRC file
+Info(prcgen):I1032: PRC built successfully
+Info(prcgen):I1016: Building enhanced PRC file
+Info(prcgen):I1007: Resolving mediaidlinks
+Info(prcgen):I1011: Writing mediaidlinks
+Info(prcgen):I1009: Resolving guide items
+Info(prcgen):I1017: Building PRC file, record count:   0000007
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  51.76%
+Info(prcgen):I1041: The file format version is V8
+Info(prcgen):I15000:  Approximate Standard Mobi Deliverable file size :   0000093KB
+Info(prcgen):I15001:  Approximate KF8 Deliverable file size :   0000098KB
+Info(prcgen):I1036: Mobi file built successfully
+ 
+     3.  pdf      
+ 
+ 
+Build attempt completed. Files are:
+total 3552
+drwxrwxrwx@  5 a03pl  staff      170 19 Feb 09:50 .
+drwxrwxrwx@ 18 a03pl  staff      612 19 Feb 09:34 ..
+-rw-r--r--   1 a03pl  staff   607981 19 Feb 09:50 book.epub
+-rw-r--r--   1 a03pl  staff  1108050 19 Feb 09:50 book.mobi
+-rw-r--r--@  1 a03pl  staff    97175 19 Feb 09:50 book.pdf
+ 

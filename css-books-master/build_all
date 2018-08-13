@@ -1,0 +1,20 @@
+TODAY=`date`;export TODAY
+echo $TODAY > build.log
+echo " " | tee -a build.log
+echo "Building eBook ..." | tee -a build.log
+echo "     1.  epub     " | tee -a build.log
+echo " " >> build.log
+./build_epub >> build.log
+echo " " >> build.log
+echo "     2.  mobi     " | tee -a build.log
+echo " " >> build.log
+./build_mobi >> build.log
+echo " " >> build.log
+echo "     3.  pdf      " | tee -a build.log
+echo " " >> build.log
+./build_pdf >> build.log
+echo " " | tee -a build.log
+echo "Build attempt completed. Files are:" | tee -a build.log
+ls -al builds | tee -a build.log
+echo " " >> build.log
+
