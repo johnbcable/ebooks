@@ -19,18 +19,8 @@ echo BASEDEST = $BASEDEST
 echo EBOOKDIR = $EBOOKDIR
 echo Creating $DEST
 read
-mkdir $DEST
-cd $DEST
-mkdir builds
-cd builds
-cp $SOURCE/builds/* .
-cd ..
-cp $SOURCE/*.html .
-cp $SOURCE/*.css .
-cp $SOURCE/*.png .
-cp $SOURCE/*.xml .
-cp $SOURCE/*.md .
-cd $HOME/Sites
+cd $BASEDEST
+cp -R $SOURCE $DEST
 chmod 777 -R  $DEST
 echo
 echo Done. Change directory to $DEST and review
