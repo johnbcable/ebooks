@@ -2,7 +2,7 @@
 <package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <!--Required metadata-->
-    <dc:title>Crime and Punishment</dc:title>
+    <dc:title>Holiday 2018 Mexico and Cuba</dc:title>
     <dc:language>en-us</dc:language> <!--Other examples include "en-gb" for British English, "fr" for French-->
 
     <dc:identifier id="BookId" opf:scheme="uuid">urn:uuid:3e3f969b-c287-4327-bcdd-4f7eda7c9411</dc:identifier>
@@ -12,9 +12,9 @@
       <dc:identifier id="BookId" opf:scheme="ISBN">urn:isbn:1234567890123</dc:identifier>
     -->
 
-    <dc:creator opf:role="aut">Fyodor Dostoevsky</dc:creator> <!--The Author-->
+    <dc:creator opf:role="aut">John Cable</dc:creator> <!--The Author-->
     <dc:publisher>BB eBooks</dc:publisher> <!--Name of Publisher or yourself if self-published-->
-    <dc:date>2012-06-15</dc:date> <!--Published Date in the format YYYY-MM-DD-->
+    <dc:date>2018-09-28</dc:date> <!--Published Date in the format YYYY-MM-DD-->
     <meta name="cover" content="My_Cover_ID" /> <!--Required for KindleGen-->
 
     <!--Extra metadata here (recommended)-->
@@ -22,8 +22,9 @@
     <dc:description>This is classic Russian literature!</dc:description>
 
     <!--These function like Keywords. Use as many as you like-->
-    <dc:subject>Russian</dc:subject>
-    <dc:subject>Classics</dc:subject>
+    <dc:subject>Holiday</dc:subject>
+    <dc:subject>Mexico</dc:subject>
+    <dc:subject>Cuba</dc:subject>
     
     <!--This is optional metadata that rarely gets used-->
     <dc:rights>All rights reserved</dc:rights>
