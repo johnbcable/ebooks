@@ -9,32 +9,32 @@ Info(prcgen):I1047: Added metadata dc:Title        "Holiday 2018 to Mexico and C
 Info(prcgen):I1047: Added metadata dc:Date         "2018-09-28"
 Info(prcgen):I1047: Added metadata dc:Creator      "John Cable"
 Info(prcgen):I1047: Added metadata dc:Subject      "An ebook about our 2018 holiday to Mexico and Cuba"
-Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-5h2SyV/cover.xhtml
+Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-1em6A0/cover.xhtml
 Info(prcgen):I1002: Parsing files  0000008
+Info(prcgen):I1016: Building enhanced PRC file
 Info(prcgen):I1015: Building PRC file
 Info(prcgen):I1006: Resolving hyperlinks
-Warning(prcgen):W14001: Hyperlink not resolved:  /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-5h2SyV/ch002.xhtml#ch2
-Warning(prcgen):W14001: Hyperlink not resolved:  /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-5h2SyV/Sophie.Barber@journeylatinamerica.co.uk
+Warning(prcgen):W14001: Hyperlink not resolved:  /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-1em6A0/ch002.xhtml#ch2
+Warning(prcgen):W14001: Hyperlink not resolved:  /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-1em6A0/Sophie.Barber@journeylatinamerica.co.uk
 Warning(prcgen):W14002: Some hyperlinks could not be resolved.
 Info(prcgen):I1008: Resolving start reading location
-Info(prcgen):I1049: Building table of content     URL: /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-5h2SyV/toc.ncx
+Info(prcgen):I1049: Building table of content     URL: /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-1em6A0/toc.ncx
 Info(pagemap):I8000: No Page map found in the book
 Info(prcgen):I1045: Computing UNICODE ranges used in the book
 Info(prcgen):I1046: Found UNICODE range: Basic Latin [20..7E]
 Info(prcgen):I1046: Found UNICODE range: General Punctuation - Windows 1252 [2013..2014]
 Info(prcgen):I1046: Found UNICODE range: Latin-1 Supplement [A0..FF]
 Info(prcgen):I1017: Building PRC file, record count:   0000008
-Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  53.15%
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  53.14%
 Info(prcgen):I1040: The document identifier is: "Holiday_2018-exico_and_Cuba"
 Info(prcgen):I1041: The file format version is V6
 Info(prcgen):I1031: Saving PRC file
 Info(prcgen):I1032: PRC built successfully
-Info(prcgen):I1016: Building enhanced PRC file
 Info(prcgen):I1007: Resolving mediaidlinks
 Info(prcgen):I1011: Writing mediaidlinks
 Info(prcgen):I1009: Resolving guide items
 Info(prcgen):I1017: Building PRC file, record count:   0000011
-Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  51.51%
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  51.50%
 Info(prcgen):I1041: The file format version is V8
 Info(prcgen):I15000:  Approximate Standard Mobi Deliverable file size :   0001419KB
 Info(prcgen):I15001:  Approximate KF8 Deliverable file size :   0001426KB
