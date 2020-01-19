@@ -11,7 +11,7 @@ Bottom left we display the title of the book, bottom right the page using a CSS 
    @bottom-left {
        margin: 10pt 0 30pt 0;
        border-top: .25pt solid #666;
-	   content: "Productivity Essays";
+	   content: "Japan 2020";
        font-size: 9pt;
        color: #333;
    }
@@ -36,7 +36,7 @@ Bottom right book title, bottom left current page */
    @bottom-right {
        margin: 10pt 0 30pt 0;
        border-top: .25pt solid #666;
-	   content: "Productivity Essays";
+	   content: "Japan 2020";
        font-size: 9pt;
        color: #333;
    }
