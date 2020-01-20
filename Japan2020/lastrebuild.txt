@@ -9,8 +9,8 @@ Info(prcgen):I1047: Added metadata dc:Title        "Holiday 2020 – Japan Taste
 Info(prcgen):I1047: Added metadata dc:Date         "2019-10-01"
 Info(prcgen):I1047: Added metadata dc:Creator      "John Cable"
 Info(prcgen):I1047: Added metadata dc:Subject      "An ebook with ideas for what we wnat to do for our 2-week trip to Japan in blossom season, 2020"
-Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-fzP7XF/EPUB/text/cover.xhtml
-Info(prcgen):I1002: Parsing files  0000004
+Info(prcgen):I1052: Kindle support cover images but does not support cover HTML. Hence using the cover image specified and suppressing cover HTML in content.     URL: /var/folders/1y/4vt1jk99761dyglr35gvrzl00000gn/T/mobi-eive3q/EPUB/text/cover.xhtml
+Info(prcgen):I1002: Parsing files  0000005
 Info(prcgen):I1015: Building PRC file
 Info(prcgen):I1006: Resolving hyperlinks
 Info(prcgen):I1008: Resolving start reading location
@@ -18,8 +18,9 @@ Info(pagemap):I8000: No Page map found in the book
 Info(prcgen):I1045: Computing UNICODE ranges used in the book
 Info(prcgen):I1046: Found UNICODE range: Basic Latin [20..7E]
 Info(prcgen):I1046: Found UNICODE range: General Punctuation - Windows 1252 [2013..2014]
-Info(prcgen):I1017: Building PRC file, record count:   0000003
-Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  57.36%
+Info(prcgen):I1046: Found UNICODE range: Latin-1 Supplement [A0..FF]
+Info(prcgen):I1017: Building PRC file, record count:   0000005
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  56.08%
 Info(prcgen):I1040: The document identifier is: "Holiday_2020_V_Japan_Taster"
 Info(prcgen):I1041: The file format version is V6
 Info(prcgen):I1031: Saving PRC file
@@ -28,9 +29,9 @@ Info(prcgen):I1016: Building enhanced PRC file
 Info(prcgen):I1007: Resolving mediaidlinks
 Info(prcgen):I1011: Writing mediaidlinks
 Info(prcgen):I1009: Resolving guide items
-Info(prcgen):I1017: Building PRC file, record count:   0000004
-Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  52.00%
+Info(prcgen):I1017: Building PRC file, record count:   0000006
+Info(prcgen):I1039: Final stats - text compressed to (in % of original size):  52.10%
 Info(prcgen):I1041: The file format version is V8
-Info(prcgen):I15000:  Approximate Standard Mobi Deliverable file size :   0000157KB
-Info(prcgen):I15001:  Approximate KF8 Deliverable file size :   0000161KB
+Info(prcgen):I15000:  Approximate Standard Mobi Deliverable file size :   0000177KB
+Info(prcgen):I15001:  Approximate KF8 Deliverable file size :   0000182KB
 Info(prcgen):I1036: Mobi file built successfully
