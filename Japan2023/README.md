@@ -7,11 +7,13 @@ Example files for building CSS books. I use these as my starting point and refer
 
 The file book.html contains 3 articles from my blog to create a "book" of three chapters.
 
-These files are for use when creating an ebook in formats for EPUB, MOBI and PDF using the following commandline tools. 
+These files are for use when creating an ebook in formats for EPUB, MOBI and PDF using the following command line tools. 
 
 * [pandoc](http://johnmacfarlane.net/pandoc/)
-* [Kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211)
+* [Calibre](https://calibre-ebook.com/download)
 * [Prince](http://www.princexml.com/)
+
+Previously, Kindlegen was used to create MOBI files but Amazon's Kindlegen no longer works on MacOS
 
 Download and install these tools first. Prince is a commercial tool however you can use it free of charge for non-commercial usage.
 
@@ -27,7 +29,7 @@ Change into the css-ebooks directory and at the cli run:
 
 Use your EPUB as the source for the Kindlegen tool.
 
-    > /Applications/KindleGen/kindlegen builds/book.epub
+    > /Applications/calibre.app/Contents/MacOS/ebook-convert Japan2023.epub Japan2023.mobi
 
 ### Create a PDF
 
