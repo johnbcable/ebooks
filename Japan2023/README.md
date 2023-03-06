@@ -27,7 +27,7 @@ Change into the css-ebooks directory and at the cli run:
 
 ### Create a MOBI
 
-Use your EPUB as the source for the Kindlegen tool.
+Use your EPUB as the source for the Calibre app.
 
     > /Applications/calibre.app/Contents/MacOS/ebook-convert Japan2023.epub Japan2023.mobi
 
