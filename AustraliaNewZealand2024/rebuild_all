@@ -1,0 +1,24 @@
+echo " "
+echo Rebuilding EPUB and PDF from book.html
+echo " "
+
+echo Removing previous builds ...
+rm ./builds/*
+
+echo EPUB ...
+./build_epub > lastrebuild.txt
+echo Done
+
+echo PDF ...
+./build_pdf >> lastrebuild.txt
+echo Done
+
+echo MOBI ...
+./build_mobi >> lastrebuild.txt
+echo Done
+
+echo " "
+echo Check lastrebuild.txt for detailed log
+echo " "
+
+

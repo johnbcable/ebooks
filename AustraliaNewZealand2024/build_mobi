@@ -1,0 +1,3 @@
+cd builds
+/Applications/calibre.app/Contents/MacOS/ebook-convert Japan2023.epub Japan2023.mobi
+

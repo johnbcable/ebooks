@@ -1,0 +1,2 @@
+pandoc -o builds/Japan2023.epub book.html --epub-metadata=metadata.xml --epub-cover-image=cover.png --toc --toc-depth=2
+

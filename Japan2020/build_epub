@@ -1,2 +1,0 @@
-pandoc -o builds/Japan2020.epub book.html --epub-metadata=metadata.xml --epub-cover-image=cover.png --toc --toc-depth=2
-
