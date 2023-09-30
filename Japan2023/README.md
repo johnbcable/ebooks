@@ -1,7 +1,7 @@
 css-books
 =========
 
-Example files for building CSS books. I use these as my starting point and reference them in my presentation [CSS and Ebooks](http://rachelandrew.co.uk/presentations/css-books) and Net Magazine tutorial. Resources and more information about CSS and creating ebooks in a variety of formats can be found on my site [Book Toolkit](http://booktoolkit.com).
+Example files for building CSS books. I use these as my starting point. I took them from the presentation done by Rachel Andrew [CSS and Ebooks](http://rachelandrew.co.uk/presentations/css-books) and her Net Magazine tutorial. Resources and more information about CSS and creating ebooks in a variety of formats can be found on her site [Book Toolkit](http://booktoolkit.com).
 
 ## Using these files
 
@@ -27,7 +27,7 @@ Change into the css-ebooks directory and at the cli run:
 
 ### Create a MOBI
 
-Use your EPUB as the source for the Kindlegen tool.
+Use your EPUB as the source for the Calibre app.
 
     > /Applications/calibre.app/Contents/MacOS/ebook-convert Japan2023.epub Japan2023.mobi
 
