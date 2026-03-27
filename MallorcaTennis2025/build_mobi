@@ -1,0 +1,4 @@
+
+cd builds
+/Applications/calibre.app/Contents/MacOS/ebook-convert Mallorca2025.epub Mallorca2025.mobi
+

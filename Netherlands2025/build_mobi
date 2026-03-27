@@ -1,0 +1,3 @@
+
+cd builds
+/Applications/calibre.app/Contents/MacOS/ebook-convert Netherlands2025.epub Netherlands2025.mobi
