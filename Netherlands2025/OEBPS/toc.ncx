@@ -33,15 +33,21 @@
       </navLabel>
       <content src="content002.html#h2-1" />
     </navPoint>
-    <navPoint id="ncxcontent002h2-1" playOrder="3">
+    <navPoint id="ncxcontent002h2-1" playOrder="4">
       <navLabel>
-        <text>Before we go</text>
+        <text>The Trip</text>
       </navLabel>
       <content src="content002.html#h2-1" />
     </navPoint>    
-    <navPoint id="ncxcontent002h2-1" playOrder="3">
+    <navPoint id="ncxcontent002h2-1" playOrder="5">
       <navLabel>
-        <text>Appendices</text>
+        <text>Appendix 1 Personal Packing Checklist</text>
+      </navLabel>
+      <content src="content002.html#h2-1" />
+    </navPoint>    
+    <navPoint id="ncxcontent002h2-1" playOrder="6">
+      <navLabel>
+        <text>Appendix 2 Best Hot Chocolate Cafes in Amsterdam</text>
       </navLabel>
       <content src="content002.html#h2-1" />
     </navPoint>    
