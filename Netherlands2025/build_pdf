@@ -1,2 +1,0 @@
-prince -s pdf-styles.css coverpage.html toc.html book.html -o builds/Netherlands2025.pdf
-

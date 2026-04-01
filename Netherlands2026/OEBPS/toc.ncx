@@ -51,5 +51,11 @@
       </navLabel>
       <content src="content002.html#h2-1" />
     </navPoint>    
+    <navPoint id="ncxcontent002h2-1" playOrder="6">
+      <navLabel>
+        <text>Appendix 3 Potential day trips</text>
+      </navLabel>
+      <content src="content002.html#h2-1" />
+    </navPoint>    
   </navMap>
 </ncx>
