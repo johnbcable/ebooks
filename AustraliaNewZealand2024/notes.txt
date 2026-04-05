@@ -12,7 +12,7 @@ Singapore -> Christchurch   5220 miles      Total   12198
 
 Auckland -> Sydney          1345 miles
 Cairns -> Singapore         3112 miles
-Singapore -> Amsterdam      6535 miles
-Amsterdam -> Bham            276 miles      Total   11268
+Singapore -> Sweden      6535 miles
+Sweden -> Bham            276 miles      Total   11268
 
 TOTAL   23466
